@@ -5,8 +5,9 @@ Buoy is a simple micro-library that makes working with vanilla JS a little bit e
 
 1. [Getting Started](#getting-started)
 2. [Browser Compatibility](#browser-compatibility)
-3. [Changelog](#changelog)
-4. [License](#license)
+3. [How to Contribute](#how-to-contribute)
+4. [Changelog](#changelog)
+5. [License](#license)
 
 
 
@@ -77,6 +78,12 @@ And that's it, you're done. Nice work! New to vanilla JS? Check out [Ditching jQ
 ## Browser Compatibility
 
 Buoy works in all modern browsers, and IE 6 and above.
+
+
+
+## How to Contribute
+
+In lieu of a formal style guide, take care to maintain the existing coding style. Don't forget to update the version number, the changelog (in the `readme.md` file), and when applicable, the documentation.
 
 
 
