@@ -8,6 +8,7 @@ Buoy is a simple `classList` polyfill that makes working with classes in vanilla
 3. [How to Contribute](#how-to-contribute)
 4. [Changelog](#changelog)
 5. [License](#license)
+6. [Older Docs](#older-docs)
 
 
 
@@ -93,4 +94,11 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 
 
 ## License
+
 Buoy is licensed under the [MIT License](http://gomakethings.com/mit/).
+
+
+
+## Older Docs
+
+* [Version 1](https://github.com/cferdinandi/buoy/tree/archive-v1)
