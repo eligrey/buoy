@@ -1,6 +1,8 @@
 # Buoy
 Buoy is a simple `classList` polyfill that makes working with classes in vanilla JS a little bit easier.
 
+[Download Buoy 2](https://github.com/cferdinandi/buoy/archive/master.zip)
+
 **In This Documentation**
 
 1. [Getting Started](#getting-started)
