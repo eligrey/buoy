@@ -1,14 +1,11 @@
 /* =============================================================
 
 	Buoy v2.0
-	A simple classList polyfill by Chris Ferdinandi.
-	http://gomakethings.com
+	A simple classList polyfill by Eli Grey.
+	http://eligrey.com
 
-	Forked from classList.js by Eli Grey.
-	https://github.com/eligrey/classList.js
-
-	Free to use under the MIT License.
-	http://gomakethings.com/mit/
+	Public Domain
+	NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
 
  * ============================================================= */
 
